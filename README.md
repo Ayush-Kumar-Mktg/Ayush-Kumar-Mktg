@@ -12,7 +12,7 @@ A while back, I noticed that **Slate** is an anagram of **Tesla**. I posted it o
 
 Four months later, Demand Curve featured it in [Growth Newsletter #273](https://www.demandcurve.com/newsletters/growth-newsletter-273), which goes out to 100,000+ readers. My future manager was one of them. He clicked through and offered me a job.
 
-The post did not change. Who saw it did. That is the whole reason this page exists.
+Nothing about the post changed. It just reached the right person, and that one person changed my career. Getting good work in front of the right people is the part of marketing I care about most.
 
 ---
 
@@ -41,6 +41,6 @@ Marketing compounds. The brands that win keep showing up with clarity and consis
 
 ---
 
-### Say hi
+### Where else I post
 
-I post on [LinkedIn](https://www.linkedin.com/in/ayushkumar-marketing/). Built something and want people to know about it? My DMs are open.
+I write about B2B marketing on [LinkedIn](https://www.linkedin.com/in/ayushkumar-marketing/) and break down how brands sell to you on [Instagram](https://www.instagram.com/akbrandlab/).
