@@ -2,7 +2,7 @@
 
 I'm Ak, a marketer on a site built for people who write code. Engineers come to GitHub to build things. I'm here for the other half of the job, which is getting people to notice and care.
 
-I learned how much that half matters from my own career. My first marketing job came from a LinkedIn post about brand naming. Demand Curve put it in their Growth Newsletter four months later, and that's where my future manager found me. The post didn't change. Who saw it did.
+I learned how much that half matters from my own career. My first marketing job came from a LinkedIn post pointing out that Slate is an anagram of Tesla. Demand Curve put it in [Growth Newsletter #273](https://www.demandcurve.com/newsletters/growth-newsletter-273) four months later, and that's where my future manager found me. The post didn't change. Who saw it did.
 
 ### What lives here
 
