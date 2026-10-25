@@ -31,7 +31,7 @@ The post did not change. Who saw it did. That is the whole reason this page exis
 |---|---|---|
 | **Breakdowns** | How brands sell to you. Why Zomato texts you at 1am. Why we still call it 2-minute Maggi. | Starting soon |
 | **Experiments** | Marketing I test in public, numbers included. The flops too. | Starting soon |
-| **Tools** | Starting with marketing-guru. It gives you angles from 47 issues of Demand Curve's Growth Newsletter, 9 B2B marketing newsletters and 10 growth playbooks. You still do the thinking. | Coming soon |
+| **Tools** | [marketing-guru](https://github.com/Ayush-Kumar-Mktg/marketing-guru): 16 marketing skills for your AI agent, built from the newsletters, growth playbooks and books I keep going back to. It gives you the angles. You still do the thinking. | Live |
 
 ---
 
